@@ -1,4 +1,4 @@
-public abstract class CharacDecorator implements IEquipment{
+public class CharacDecorator implements IEquipment{
     IEquipment equipment;
 
     public CharacDecorator(IEquipment equipment){
